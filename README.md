@@ -6,7 +6,7 @@
 
 # 💀 Deadcord v2
 
-![GitHub All Releases](https://img.shields.io/github/downloads/BryanLawless/Deadcord-v1/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/BryanLawless/Deadcord-v1?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/BryanLawless/Deadcord-v1?style=social)
+![GitHub All Releases](https://img.shields.io/github/downloads/BryanLawless/Deadcord-v2/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/BryanLawless/Deadcord-v2?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/BryanLawless/Deadcord-v2?style=social)
 
 | 🎉 Deadcord v2 is in development! |
 | ----------------------------------|
